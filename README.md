@@ -1,7 +1,6 @@
 # Recommend_Me_First_ECAF26
 Recommend Me First: How the Relative Ordering of Recommendations Can Lead to Unfair Outcomes for Content Creators
 
-Relative Ordering of Recommendations Can Lead to Unfair Outcomes for Content Creators
 ## Description 
 This repository contains the code to run simulations provided in the paper: "How the Relative Ordering of Recommendations Can Lead to Unfair Outcomes for Content Creators". We provide the code to generate the data and do not provide the data itself as the files are extremely large. 
 
